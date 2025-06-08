@@ -1,0 +1,2 @@
+# SuicideCommand
+Exiled Plugin 
